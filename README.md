@@ -1,9 +1,8 @@
-# Web Server Launcher
+# servr
 
-An application for quickly serving local web files with a built-in HTTP server.
+**A simple linux tool for quickly serving local web files with a built-in HTTP server.**
 
 ![Web Server Launcher Screenshot](/utils/Screenshot.png)
-![Web Server Launcher Screencast](/utils/Screencast.gif)
 
 ## Features
 
@@ -36,11 +35,6 @@ An application for quickly serving local web files with a built-in HTTP server.
 6. **Stop the Server**: Click "Stop Server" when you're done
 
 
-## License
+## Motivation
 
-MIT License
-
-## Credits
-
-- Created with PySide6 (Qt for Python)
-- Styling inspired by Neovim/NvChad
+I just wanted a tool for a lightweight HTTP server, the GUI was done good with the help of Coplilot, design inspired from Nvchad.
