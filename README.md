@@ -37,4 +37,5 @@
 
 ## Motivation
 
-I just wanted a tool for a lightweight HTTP server, the GUI was done good with the help of Coplilot, design inspired from Nvchad.
+I just wanted a tool for a lightweight HTTP server, and made it my submission for Github's global summer hackathon : **For the Love of Code**.
+The GUI was done good with the help of Coplilot, design inspired from Nvchad.
