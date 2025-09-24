@@ -39,3 +39,10 @@
 
 I just wanted a tool for a lightweight HTTP server, and made it my submission for Github's global summer hackathon : **For the Love of Code**.
 The GUI was done good with the help of Coplilot, design inspired from Nvchad.
+
+##
+
+
+The project is still in progress, and the windows build and appimage will be available soon ...
+
+# Thaenks
